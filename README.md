@@ -20,3 +20,10 @@ I get this error when I try to render:
 * the stand-alone [not-in-the-book.qmd](not-in-the-book.qmd) through VS Code (using `quarto preview`, and several variations)
 * the book's [lightbox.qmd](lightbox.qmd) through RStudio (using the "Render button)
 * the stand-alone [not-in-the-book.qmd](not-in-the-book.qmd) through RStudio (using the "Render button)
+
+
+# Resolution:
+
+Upgrade to the newest version of Quarto.  The version from a week or two ago apparently didn't correspond with the Lightbox extension
+
+https://stackoverflow.com/a/74565982/1082435
