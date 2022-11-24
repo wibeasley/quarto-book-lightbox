@@ -1,0 +1,10 @@
+project:
+  type: book
+
+book:
+  title: Quarto Book with Lightbox Extension
+  date: last-modified
+
+  chapters:
+  - index.qmd
+  - lightbox.qmd
